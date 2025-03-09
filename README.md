@@ -105,7 +105,7 @@ FastAPI provides an interactive documentation UI at:
 
 Below are screenshots showing how to use the API endpoints in Swagger UI:
 
-1. **Heartbeat Request UI**  ![Screenshot 1](images/1.png)
+1. **Heartbeat Request UI**  ![Screenshot 1](https://github.com/shanmukha66/String_HeartBeat_FastAPI/tree/main/Images/1.png)
 2. **Heartbeat Response**  ![Screenshot 2](images/2.png)
 3. **Version Endpoint UI**  ![Screenshot 3](images/3.png)
 4. **Version Response**  ![Screenshot 4](images/4.png)
