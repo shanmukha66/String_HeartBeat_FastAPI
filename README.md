@@ -120,7 +120,4 @@ Below are screenshots showing how to use the API endpoints in Swagger UI:
 
 To stop the FastAPI server, press **CTRL + C** in the terminal.
 
-## License
-
-This project is open-source and free to use for learning purposes.
 
