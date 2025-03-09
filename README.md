@@ -105,16 +105,17 @@ FastAPI provides an interactive documentation UI at:
 
 Below are screenshots showing how to use the API endpoints in Swagger UI:
 
-1. **Heartbeat Request UI** &#x20;
-2. **Heartbeat Response** &#x20;
-3. **Version Endpoint UI** &#x20;
-4. **Version Response** &#x20;
-5. **To Upper Request** &#x20;
-6. **To Upper Response** &#x20;
-7. **To Lower Request** &#x20;
-8. **To Lower Response** &#x20;
-9. **Swagger API Overview** &#x20;
-10. **Successful API Calls** &#x20;
+1. **Heartbeat Request UI**  ![Screenshot 1](images/1.png)
+2. **Heartbeat Response**  ![Screenshot 2](images/2.png)
+3. **Version Endpoint UI**  ![Screenshot 3](images/3.png)
+4. **Version Response**  ![Screenshot 4](images/4.png)
+5. **To Upper Request**  ![Screenshot 5](images/5.png)
+6. **To Upper Response**  ![Screenshot 6](images/6.png)
+7. **To Lower Request**  ![Screenshot 7](images/7.png)
+8. **To Lower Response**  ![Screenshot 8](images/8.png)
+9. **Swagger API Overview**  ![Screenshot 9](images/9.png)
+10. **Successful API Calls**  ![Screenshot 10](images/10.png)
+
 
 ## Stopping the Server
 
