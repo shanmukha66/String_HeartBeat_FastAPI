@@ -105,16 +105,16 @@ FastAPI provides an interactive documentation UI at:
 
 Below are screenshots showing how to use the API endpoints in Swagger UI:
 
-1. **Heartbeat Request UI**  ![Screenshot 1](https://github.com/shanmukha66/String_HeartBeat_FastAPI/tree/main/Images/1.png)
-2. **Heartbeat Response**  ![Screenshot 2](images/2.png)
-3. **Version Endpoint UI**  ![Screenshot 3](images/3.png)
-4. **Version Response**  ![Screenshot 4](images/4.png)
-5. **To Upper Request**  ![Screenshot 5](images/5.png)
-6. **To Upper Response**  ![Screenshot 6](images/6.png)
-7. **To Lower Request**  ![Screenshot 7](images/7.png)
-8. **To Lower Response**  ![Screenshot 8](images/8.png)
-9. **Swagger API Overview**  ![Screenshot 9](images/9.png)
-10. **Successful API Calls**  ![Screenshot 10](images/10.png)
+1. **Heartbeat Request UI**  ![Screenshot 1](Images/1.png)
+2. **Heartbeat Response**  ![Screenshot 2](Images/2.png)
+3. **Version Endpoint UI**  ![Screenshot 3](Images/3.png)
+4. **Version Response**  ![Screenshot 4](Images/4.png)
+5. **To Upper Request**  ![Screenshot 5](Images/5.png)
+6. **To Upper Response**  ![Screenshot 6](Images/6.png)
+7. **To Lower Request**  ![Screenshot 7](Images/7.png)
+8. **To Lower Response**  ![Screenshot 8](Images/8.png)
+9. **Swagger API Overview**  ![Screenshot 9](Images/9.png)
+10. **Successful API Calls**  ![Screenshot 10](Images/10.png)
 
 
 ## Stopping the Server
